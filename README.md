@@ -24,6 +24,6 @@ python filename.py
 Requirements
 - Python 3.x installed on your system
 Author
-Utpal R
+Utpal Rajbongshi
 License
 This project is for educational purposes.
